@@ -1,0 +1,7 @@
+{
+    "frontImage": "./data/input/front.png",
+    "attendees": 22,
+    "taskCount": 4,
+    "font": "./data/input/GreatVibesRegular.otf",
+    "explaination": "In de lijst hieronder staan de opdrachten die je moet uitvoeren. Als je een Imposter bent mag je juist geen opdrachten uitvoeren!"
+}

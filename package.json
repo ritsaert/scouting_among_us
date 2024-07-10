@@ -1,0 +1,24 @@
+{
+  "name": "among_us",
+  "version": "1.0.0",
+  "description": "Among Us Scouting Edition Orderbook",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc && node esbuild.config.js",
+    "go": "node ./dist/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pdfkit": "^0.15.0",
+    "sharp": "^0.33.4",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.8.3",
+    "@types/node": "^20.14.9",
+    "@types/pdfkit": "^0.13.4",
+    "esbuild": "^0.23.0",
+    "typescript": "^5.5.3"
+  }
+}
